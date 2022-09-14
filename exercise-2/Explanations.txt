@@ -1,0 +1,22 @@
+1. React: React is a front-end JavaScript toolkit that is free and open-source for creating user interfaces 
+based on UI components. It is kept up-to-date by Meta and a group of independent programmers and businesses.
+
+2.React component: Components are solitary, replaceable parts of code. They accomplish the same thing as 
+JavaScript functions, except they operate independently and output HTML such as Class component, Function
+component, Rendering component and so on.
+
+3.Single page application: These days, it is a highly popular method of website programming. The intention is 
+for the website to load all of the HTML and JS on your first time. The browser will just enter the information 
+without refreshing the website when you navigate after that.
+
+4.Declarative programming (versus imperative programming): Declarative programming is a paradigm that describes 
+what the program does rather than stating the control flow in detail. A programming paradigm known as imperative 
+programming describes what the program should be doing by clearly defining each command (or statement) 
+step-by-step, changing the program's state.
+
+5.JSX: JavaScript XML is referred to as JSX. We can write HTML in React according to JSX. React use of JSX makes 
+adding and writing HTML smoother.
+
+6.Asynchronous (versus synchronous): Synchronous code executes in order. This implies that before beginning an 
+operation, it must wait for the previous one to finish. Code that is asynchronous executes concurrently. This 
+implies that an operation may take place whilst another is being completed.
